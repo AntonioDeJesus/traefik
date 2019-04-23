@@ -5,7 +5,7 @@
 ### TOML
 
 ```toml
-defaultEntryPoints = ["http", "https"]
+defaultEntryPoints = ["http", "https"]  #This entry needs to be at the top of the TOML document
 
 # ...
 # ...
